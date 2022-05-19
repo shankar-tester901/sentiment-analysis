@@ -1,0 +1,12 @@
+{
+  "functions": {
+    "targets": [
+      "sentiment_analysis_sentiment_library_function"
+    ],
+    "ignore": [],
+    "source": "functions"
+  },
+  "client": {
+    "source": "client"
+  }
+}

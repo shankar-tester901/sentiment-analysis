@@ -1,0 +1,17 @@
+{
+	"name": "sentiment_analysis_sentiment_library_function",
+	"version": "1.0.0",
+	"main": "index.js",
+	"author": "shankarr+1002@zohocorp.com",
+	"dependencies": {
+		"apos-to-lex-form": "^1.0.5",
+		"cookie-parser": "^1.4.5",
+		"express": "^4.17.1",
+		"morgan": "^1.10.0",
+		"natural": "^5.0.3",
+		"path": "^0.12.7",
+		"spelling-corrector": "^3.0.0",
+		"stopword": "^1.0.7",
+		"zcatalyst-sdk-node": "latest"
+	}
+}

@@ -1,0 +1,10 @@
+{
+	"deployment": {
+		"name": "sentiment_analysis_sentiment_library_function",
+		"stack": "node10",
+		"type": "advancedio"
+	},
+	"execution": {
+		"main": "index.js"
+	}
+}
